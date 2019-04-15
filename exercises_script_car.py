@@ -1,5 +1,5 @@
 ##################################
-from excercises_classes import Car
+from excercises_classes_car import Car
 
 my_car = Car(make='hyundai', model='escape', year=1997)
 

@@ -1,5 +1,5 @@
 ##################################
-from exercises_classes import Dog
+from exercises_classes_dog import Dog
 
 my_dog = Dog('willie', 6)
 
